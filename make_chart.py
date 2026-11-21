@@ -38,11 +38,7 @@ ax.set_ylim(lo - 8, hi + 8)
 for s in ax.spines.values(): s.set_color("#243142")
 ax.grid(color="#1c2a3a", lw=.5)
 fig.text(.06, .955, j["title"], color="white", fontsize=17, fontweight="bold")
-t1 = fig.text(.06, .928, "OANDA:XAUUSD  1H   |   Sisco Team", color="#d4af37", fontsize=11)
-fig.canvas.draw()
-bb = t1.get_window_extent().transformed(fig.transFigure.inverted())
-fig.text(bb.x1 + .018, .9285, "\u2713", color="white", fontsize=8, fontweight="bold", ha="center", va="center",
-         bbox=dict(boxstyle="circle,pad=0.28", fc="#1d9bf0", ec="none"))   # blue verified badge
+fig.text(.06, .928, "OANDA:XAUUSD  1H   |   Sisco Team", color="#d4af37", fontsize=11)
 notes = [x for x in (j.get("buy_note"), j.get("sell_note")) if x]
 fig.text(.06, .075, "\n".join(notes), color="#cfd8e3", fontsize=10, va="top")
 fig.text(.06, .022, j.get("footer", "Educational analysis, not financial advice."), color="#7d8b99", fontsize=9)
