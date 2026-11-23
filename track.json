@@ -14,7 +14,8 @@
    "status": "waiting",
    "hits": [],
    "msgs": [],
-   "label": "BUY LIMIT 3616 (manual signal sent from admin)"
+   "label": "BUY LIMIT 3616 (manual signal sent from admin)",
+   "tp4": 3688
   }
  ]
 }
