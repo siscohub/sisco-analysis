@@ -1,0 +1,20 @@
+{
+ "ideas": [
+  {
+   "id": "2026-11-23-manual-buylimit",
+   "side": "BUY",
+   "entry_lo": 3616,
+   "entry_hi": 3616,
+   "sl": 3598,
+   "tp1": 3634,
+   "tp2": 3652,
+   "tp3": 3670,
+   "from_ms": 1795458425000,
+   "valid_until": "2026-11-25T20:30:00Z",
+   "status": "waiting",
+   "hits": [],
+   "msgs": [],
+   "label": "BUY LIMIT 3616 (manual signal sent from admin)"
+  }
+ ]
+}
