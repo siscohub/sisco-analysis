@@ -11,9 +11,11 @@
    "tp3": 3670,
    "from_ms": 1795458425000,
    "valid_until": "2026-11-25T20:30:00Z",
-   "status": "waiting",
+   "status": "active",
    "hits": [],
-   "msgs": [],
+   "msgs": [
+    "ENTRY"
+   ],
    "label": "BUY LIMIT 3616 (manual signal sent from admin)",
    "tp4": 3688
   },
