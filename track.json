@@ -16,6 +16,21 @@
    "msgs": [],
    "label": "BUY LIMIT 3616 (manual signal sent from admin)",
    "tp4": 3688
+  },
+  {
+   "id": "2026-11-24-am",
+   "side": "SELL",
+   "entry_lo": 3664,
+   "entry_hi": 3678,
+   "sl": 3692,
+   "tp1": 3650,
+   "tp2": 3629,
+   "tp3": 3608,
+   "from_ms": 1795503930895,
+   "valid_until": "2026-11-24T20:30:00Z",
+   "status": "waiting",
+   "hits": [],
+   "msgs": []
   }
  ]
 }
