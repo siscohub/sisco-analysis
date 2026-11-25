@@ -4,6 +4,13 @@
 Louai Saleh. بيحكي عربي لبناني / Arabizi. بدو أجوبة قصيرة بالعربي. مش مبرمج.
 لا تسوّي شي بدون طلب. إذا سأل "yes or no" جاوب بس.
 
+## أول شي بالمحادثة الجديدة (لازم تنعمل قبل أي جواب)
+1. TradingView: اقرأ الاتصال بـ `mcp-tv-list-alerts` (لازم تنعرض التنبيهات، خصوصاً "Sisco OANDA") وبـ `mcp-tv-search-pine-scripts` (scope mine) لتشوف مؤشراته.
+2. المؤشر الشغّال: "Siscohub Gold SMC" (Pine script id USER;099efacd3dd34d66b3ce153f3bb90b03). اقرأه بـ `mcp-tv-get-pine-script-source` و `mcp-tv-get-alerts-log` لتشوف الإشارات الحقيقية.
+3. التطبيق: اقرأ حالة Render (`list_services` ثم `get_service` للخدمة siscohub، و `list_logs`) وآخر commits بالريبوين (siscohub/-sisco-gold-signel- و siscohub/sisco-analysis) عبر `list_repos` / `add_repo` إذا لازم.
+4. المهام المجدولة: `list_triggers` لتشوف الأوقات وآخر تشغيل.
+5. بعدها خبّر لؤي بجملة وحدة: TradingView متصل أو لا، التطبيق شغّال أو لا. إذا أي أداة مش موجودة ابحث عنها بـ ToolSearch قبل ما تقول إنها غير متاحة.
+
 ## الأنظمة
 - التطبيق (PWA إشارات XAUUSD) على Render: خدمة `siscohub` (srv-dbs9lh6i0phs73ch6ajg)، workspace tea-dbs96fe1egvs73d73h9g، رابط https://siscohub.onrender.com ، autoDeploy عند commit على main.
 - ريبو السيرفر: siscohub/-sisco-gold-signel- (server.py، static/index.html، static/admin.html).
