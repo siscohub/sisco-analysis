@@ -11,10 +11,13 @@
    "tp3": 3489,
    "from_ms": 1795590320974,
    "valid_until": "2026-11-25T20:30:00Z",
-   "status": "active",
-   "hits": [],
+   "status": "done",
+   "hits": [
+    "SL"
+   ],
    "msgs": [
-    "ENTRY"
+    "ENTRY",
+    "SL"
    ]
   }
  ]
