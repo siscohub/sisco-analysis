@@ -12,9 +12,20 @@
    "tp4": 3560,
    "from_ms": 1795517220000,
    "valid_until": "2026-11-24T20:30:00Z",
-   "status": "waiting",
-   "hits": [],
-   "msgs": []
+   "status": "done",
+   "hits": [
+    "TP1",
+    "TP2",
+    "TP3",
+    "TP4"
+   ],
+   "msgs": [
+    "ENTRY",
+    "TP1",
+    "TP2",
+    "TP3",
+    "TP4"
+   ]
   },
   {
    "id": "2026-11-25-am",
