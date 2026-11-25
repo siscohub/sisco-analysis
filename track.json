@@ -1,33 +1,6 @@
 {
  "ideas": [
   {
-   "id": "2026-11-24-manual-sell-3642",
-   "side": "SELL",
-   "entry_lo": 3642.97,
-   "entry_hi": 3642.97,
-   "sl": 3662.11,
-   "tp1": 3625.95,
-   "tp2": 3608.92,
-   "tp3": 3591.89,
-   "tp4": 3560,
-   "from_ms": 1795517220000,
-   "valid_until": "2026-11-24T20:30:00Z",
-   "status": "done",
-   "hits": [
-    "TP1",
-    "TP2",
-    "TP3",
-    "TP4"
-   ],
-   "msgs": [
-    "ENTRY",
-    "TP1",
-    "TP2",
-    "TP3",
-    "TP4"
-   ]
-  },
-  {
    "id": "2026-11-25-am",
    "side": "SELL",
    "entry_lo": 3548,
