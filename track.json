@@ -14,6 +14,21 @@
    "status": "waiting",
    "hits": [],
    "msgs": []
+  },
+  {
+   "id": "2026-11-26-pm",
+   "side": "SELL",
+   "entry_lo": 3584,
+   "entry_hi": 3598,
+   "sl": 3612,
+   "tp1": 3570,
+   "tp2": 3551,
+   "tp3": 3530,
+   "from_ms": 1795696992692,
+   "valid_until": "2026-11-26T20:30:00Z",
+   "status": "waiting",
+   "hits": [],
+   "msgs": []
   }
  ]
 }
