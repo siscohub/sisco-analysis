@@ -1,24 +1,19 @@
 {
  "ideas": [
   {
-   "id": "2026-11-25-am",
+   "id": "2026-11-26-am",
    "side": "SELL",
-   "entry_lo": 3548,
-   "entry_hi": 3562,
-   "sl": 3577,
-   "tp1": 3533,
-   "tp2": 3511,
-   "tp3": 3489,
-   "from_ms": 1795590320974,
-   "valid_until": "2026-11-25T20:30:00Z",
-   "status": "done",
-   "hits": [
-    "SL"
-   ],
-   "msgs": [
-    "ENTRY",
-    "SL"
-   ]
+   "entry_lo": 3592,
+   "entry_hi": 3606,
+   "sl": 3618,
+   "tp1": 3578,
+   "tp2": 3561,
+   "tp3": 3544,
+   "from_ms": 1795676729892,
+   "valid_until": "2026-11-26T20:30:00Z",
+   "status": "waiting",
+   "hits": [],
+   "msgs": []
   }
  ]
 }
