@@ -29,6 +29,21 @@
    "status": "waiting",
    "hits": [],
    "msgs": []
+  },
+  {
+   "id": "2026-11-27-am",
+   "side": "BUY",
+   "entry_lo": 3622,
+   "entry_hi": 3637,
+   "sl": 3606,
+   "tp1": 3653,
+   "tp2": 3676,
+   "tp3": 3690,
+   "from_ms": 1795763153474,
+   "valid_until": "2026-11-27T20:30:00Z",
+   "status": "waiting",
+   "hits": [],
+   "msgs": []
   }
  ]
 }
